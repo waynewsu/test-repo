@@ -2,6 +2,6 @@
   "name": "MyPOP Token",
   "symbol": "EXMPLSU2",
   "description": "Example token for Solana Foundation Bootcamp.",
-  "image": "https://github.com/waynewsu/test-repo/blob/master/leaf.png"
+  "image": "https://raw.githubusercontent.com/waynewsu/test-repo/refs/heads/master/leaf.png"
 }
  
