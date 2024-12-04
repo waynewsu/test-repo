@@ -1,7 +1,7 @@
 {
-  "name": "Example Token",
+  "name": "My POP Token",
   "symbol": "EXMPLSU",
   "description": "Example token for Solana Foundation Bootcamp.",
-  "image": "https://raw.githubusercontent.com/mikemaccana/token-command-line/main/lights.png"
+  "image": "https://github.com/waynewsu/test-repo/blob/master/leaf.png"
 }
  
